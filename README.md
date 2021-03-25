@@ -16,6 +16,8 @@ washington.csv
 chicago.csv
 
 ### Python modules required
+pandas
+numpy
 
 
 ### Credits
