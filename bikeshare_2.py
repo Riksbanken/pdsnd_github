@@ -118,7 +118,7 @@ def user_stats(df):
     print('-'*40)
 
 
-def main():
+def programme():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
