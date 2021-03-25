@@ -15,5 +15,8 @@ new_york_city.csv
 washington.csv
 chicago.csv
 
+### Python modules required
+
+
 ### Credits
-Credit owed to the Udacity team for their inspiration as part of their Programming for Data Science with Python Nanodegree Programme 
+Credit owed to the Udacity team for their inspiration as part of their Programming for Data Science with Python Nanodegree Programme
